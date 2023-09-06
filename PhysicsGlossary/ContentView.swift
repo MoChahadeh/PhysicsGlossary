@@ -20,14 +20,17 @@ struct ContentView: View {
         TabView {
             
             HomeView().tabItem{
+                Image(systemName: "house")
                 Text("Home")
             }
             
             CalculateView().tabItem {
+                Image(systemName: "plus.circle")
                 Text("Calculate")
             }
             
             SettingsView().tabItem {
+                Image(systemName: "gear")
                 Text("Settings")
             }
             

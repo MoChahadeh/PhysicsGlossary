@@ -15,8 +15,9 @@ struct Home: View {
         
         ScrollView {
     
-            DailySlider(itemsToShow: Array(data.shuffled()[0..<3]))
-
+            DailySlider(itemsToShow: Array(data.shuffled()[0..<3]));
+            
+            ItemsList(items: data);
 
         }
     }
