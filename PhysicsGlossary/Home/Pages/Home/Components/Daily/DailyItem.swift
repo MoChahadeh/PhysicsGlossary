@@ -9,14 +9,14 @@ import SwiftUI
 
 struct DailyItem: View {
     
-    var item: String;
+    var item: ItemObj;
     
     var body: some View {
         NavigationLink(destination: DetailView(item: item)) {
             
             VStack(alignment: .leading, spacing: 8){
                
-               Text("\(item)")
+                Text("\(item.name.capitalized)")
                    .font(.title)
                    .fontWeight(.bold)
                    .multilineTextAlignment(.leading)
@@ -34,7 +34,7 @@ struct DailyItem: View {
             
         }
         .foregroundColor(.white)
-        .background(.secondary)
+        .background(.secondary.opacity(0.8))
         .cornerRadius(20)
         .padding()
         

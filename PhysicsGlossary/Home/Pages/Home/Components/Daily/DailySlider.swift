@@ -9,7 +9,7 @@ import SwiftUI
 
 struct DailySlider: View {
     
-    var itemsToShow: [String];
+    var itemsToShow: [ItemObj];
         
     var body: some View {
         

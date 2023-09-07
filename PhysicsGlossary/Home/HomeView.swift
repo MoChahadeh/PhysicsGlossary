@@ -7,20 +7,11 @@
 
 import SwiftUI
 
-let data:[String] = [
-
-    "Item1",
-    "Item2",
-    "Item3",
-    "Item4",
-    "Item5",
-    "Item6",
-    "Item7",
-    "Item8"
-
-];
 
 struct HomeView: View {
+    
+    var data:[ItemObj];
+    
     var body: some View {
         
         NavigationView {

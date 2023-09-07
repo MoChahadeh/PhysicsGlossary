@@ -16,6 +16,8 @@
 		236137572AA917A300E1FCB0 /* DailySlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236137562AA917A200E1FCB0 /* DailySlider.swift */; };
 		2361375B2AA926A300E1FCB0 /* ItemsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2361375A2AA926A300E1FCB0 /* ItemsList.swift */; };
 		2361375D2AA9284000E1FCB0 /* ListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2361375C2AA9284000E1FCB0 /* ListItem.swift */; };
+		23849AD62AA9D1E0006F51D0 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 23849AD52AA9D1DF006F51D0 /* data.json */; };
+		23849AD82AA9D98D006F51D0 /* ItemData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23849AD72AA9D98D006F51D0 /* ItemData.swift */; };
 		23EE97B02AA9098000540B6E /* PhysicsGlossaryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EE97AF2AA9098000540B6E /* PhysicsGlossaryApp.swift */; };
 		23EE97B22AA9098000540B6E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EE97B12AA9098000540B6E /* ContentView.swift */; };
 		23EE97B42AA9098200540B6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23EE97B32AA9098200540B6E /* Assets.xcassets */; };
@@ -34,6 +36,8 @@
 		236137562AA917A200E1FCB0 /* DailySlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailySlider.swift; sourceTree = "<group>"; };
 		2361375A2AA926A300E1FCB0 /* ItemsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemsList.swift; sourceTree = "<group>"; };
 		2361375C2AA9284000E1FCB0 /* ListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItem.swift; sourceTree = "<group>"; };
+		23849AD52AA9D1DF006F51D0 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		23849AD72AA9D98D006F51D0 /* ItemData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemData.swift; sourceTree = "<group>"; };
 		23EE97AC2AA9098000540B6E /* PhysicsGlossary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhysicsGlossary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23EE97AF2AA9098000540B6E /* PhysicsGlossaryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhysicsGlossaryApp.swift; sourceTree = "<group>"; };
 		23EE97B12AA9098000540B6E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -135,6 +139,8 @@
 		23EE97A32AA9098000540B6E = {
 			isa = PBXGroup;
 			children = (
+				23849AD72AA9D98D006F51D0 /* ItemData.swift */,
+				23849AD52AA9D1DF006F51D0 /* data.json */,
 				23EE97AE2AA9098000540B6E /* PhysicsGlossary */,
 				23EE97AD2AA9098000540B6E /* Products */,
 			);
@@ -231,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23EE97B72AA9098200540B6E /* Preview Assets.xcassets in Resources */,
+				23849AD62AA9D1E0006F51D0 /* data.json in Resources */,
 				23EE97B42AA9098200540B6E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -242,6 +249,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23849AD82AA9D98D006F51D0 /* ItemData.swift in Sources */,
 				2361375B2AA926A300E1FCB0 /* ItemsList.swift in Sources */,
 				236137482AA90F4000E1FCB0 /* SettingsView.swift in Sources */,
 				23EE97B92AA9098200540B6E /* Persistence.swift in Sources */,

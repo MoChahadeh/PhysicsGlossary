@@ -1,0 +1,3288 @@
+[
+    {
+        "id" : 1,
+        "name" : "absorption spectrum",
+        "description" : "The characteristic set of wavelengths absorbed by a gas, which can be used to identify that gas.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : ["1uPyq63aRvg"]
+    },
+    {
+        "id" : 2,
+        "name" : "acceleration",
+        "description" : "The rate at which the velocity of an object changes.",
+        "formula_desc" : "v = Velocity \nt = Time",
+        "formula_img" : 2,
+        "calc_id" : 2,
+        "video_ids" : ["vxFYfumAAlY"]
+    },
+    {
+        "id" : 3,
+        "name" : "accuracy",
+        "description" : "A characteristic of a measured value that describes how well the results of a measurement agree with the “real” value, which is the accepted value, as measured by competent experimenters.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : ["hRAFPdDppzs"]
+    },
+    {
+        "id" : 4,
+        "name" : "achromatic lens",
+        "description" : "A combination of two or more lenses with different indices of refraction (such as a concave lens with a convex lens) that is used to minimize chromatic aberration.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : ["uloNSzBIaKU"]
+    },
+    {
+        "id" : 5,
+        "name" : "activity",
+        "description" : "The number of decays per second of a radioactive substance.",
+        "formula_desc" : "N = change in number of undecayed nuclei \nt = Time in seconds",
+        "formula_img" : 5,
+        "calc_id" : 5,
+        "video_ids" : []
+    },
+    {
+        "id" : 6,
+        "name" : "adhesive forces",
+        "description" : "The forces of attraction that particles of different substances exert on one another; responsible for capillary action.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 7,
+        "name" : "alpha decay",
+        "description" : "The radioactive decay process in which an alpha (α) particle is emitted from a nucleus.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+
+    },
+    {
+        "id" : 8,
+        "name" : "alpha particle",
+        "description" : "Massive, positively charged atomic particle that moves at high speed; represented by the symbol α.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 9,
+        "name" : "amorphous solid",
+        "description" : "A substance having a definite shape and volume but lacking a regular crystal structure.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 10,
+        "name" : "ampere",
+        "description" : "A flow of electric charge, or electric current, equal to one coulomb per second (1 C/s).",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 11,
+        "name" : "amplitude",
+        "description" : "In any periodic motion, the maximum distance an object moves from the equilibrium position.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 12,
+        "name" : "angular acceleration",
+        "description" : "The change in angular velocity divided by the time needed to make the change; measured in rad/s 2.",
+        "formula_desc" : "w = angular velocity\nt = change in time",
+        "formula_img" : 12,
+        "calc_id" : 12,
+        "video_ids" : []
+    },
+    {
+        "id" : 13,
+        "name" : "angular displacement",
+        "description" : "The change in the angle as an object rotates.",
+        "formula_desc" : "s = distance covered on the circular path\nr = circle radius",
+        "formula_img" : 13,
+        "calc_id" : 13,
+        "video_ids" : []
+    },
+    {
+        "id" : 14,
+        "name" : "angular momentum theorem",
+        "description" : "States that the angular impulse on an object is equal to the change in the object’s angular momentum.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 15,
+        "name" : "angular momentum",
+        "description" : "The product of a rotating object’s moment of inertia and its angular velocity; measured in kg·m2/s.",
+        "formula_desc" : "m = mass\nv = linear velocity\nr = circle radius\nP = linear momentum",
+        "formula_img" : 15,
+        "calc_id" : 15,
+        "video_ids" : []
+    },
+    {
+        "id" : 16,
+        "name" : "angular velocity",
+        "description" : "The angular displacement of an object divided by the time needed to make the angular displacement.",
+        "formula_desc" : "θ = angle\nt = time\nv = linear Velocity\nr = circle radius",
+        "formula_img" : 16,
+        "calc_id" : 16,
+        "video_ids" : []
+    },
+    {
+        "id" : 17,
+        "name" : "antenna",
+        "description" : "A device that propagates electromagnetic waves through the air.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 18,
+        "name" : "antinode",
+        "description" : "The point with the largest displacement when two wave pulses meet.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 19,
+        "name" : "apparent weight",
+        "description" : "The support force acting on an object.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 20,
+        "name" : "Archimedes Principle",
+        "description" : "States that an object immersed in a fluid has an upward force on it that equals the weight of the fluid displaced by the object.",
+        "formula_desc" : "ρ = Density of object\ng = acceleration of gravity\nV = Volume of object",
+        "formula_img" : 33,
+        "calc_id" : 33,
+        "video_ids" : []
+    },
+    {
+        "id" : 21,
+        "name" : "armature",
+        "description" : "The wire coil of an electric motor, made up of many loops mounted on an axle or shaft that rotates in a magneticfield; torque on an armature, and the motor’s resultant speed, is controlled by varying the current through the motor.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 22,
+        "name" : "atomic mass unit",
+        "description" : "A unit of mass, u, where u is equal to 1.66×10 −27 kg; the approximate mass of a proton or neutron.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 23,
+        "name" : "atomic number",
+        "description" : "The number of protons in an atom’s nucleus",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 24,
+        "name" : "average acceleration",
+        "description" : "The change in an object’s velocity during a measurable time interval divided by that specific time interval.",
+        "formula_desc" : "v = Velocity\nt = Time",
+        "formula_img" : 24,
+        "calc_id" : 24,
+        "video_ids" : []
+    },
+    {
+        "id" : 25,
+        "name" : "average speed",
+        "description" : "The distance traveled divided by the time taken to travel that distance; for uniform motion, it is the absolute value of the slope of the object’s position-time graph.",
+        "formula_desc" : "",
+        "formula_img" : 25,
+        "calc_id" : 25,
+        "video_ids" : []
+    },
+    {
+        "id" : 26,
+        "name" : "average velocity",
+        "description" : "The ratio of an object’s change in position to the time interval during which the change occurred; for uniform motion, it is the slope of the object’s position-time graph.",
+        "formula_desc" : "x = Position\nt = Time",
+        "formula_img" : 26,
+        "calc_id" : 26,
+        "video_ids" : []
+    },
+    {
+        "id" : 27,
+        "name" : "band theory",
+        "description" : "The theory that electric conduction in solids can be better understood in terms of valance and conduction bands separated by forbidden energy gaps.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 28,
+        "name" : "battery",
+        "description" : "A device made up of several galvanic cells connected together that converts chemical energy to electrical energy.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 29,
+        "name" : "beat",
+        "description" : "The oscillation of wave amplitude that results from the superposition of two sound waves with almost identical frequencies.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 30,
+        "name" : "Bernoulli’s principle",
+        "description" : "States that as the velocity of a fluid increases, the pressure exerted by that fluid decreases.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 31,
+        "name" : "beta decay",
+        "description" : "The radioactive decay process in which a neutron is changed to a proton or a proton is changed to a neutron within the nucleus; results in the emission of a beta (β) particle and a neutrino or antineutrino.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 32,
+        "name" : "binding energy",
+        "description" : "The energy difference between the assembled nucleus and the individual nucleons; it is the energy equivalent of the mass defect and is always negative.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 33,
+        "name" : "buoyant force",
+        "description" : "The upward force exerted on an object immersed in a fluid, due to an increase in pressure with increasing depth.",
+        "formula_desc" : "ρ = Density of object\ng = acceleration of gravity\nV = Volume of object",
+        "formula_img" : 33,
+        "calc_id" : 33,
+        "video_ids" : []
+    },
+    {
+        "id" : 34,
+        "name" : "capacitance",
+        "description" : "The ratio of the magnitude of charge on one capacitor plate to the electric potential difference between the plates; the slope of the line of a net charge versus potential difference graph.",
+        "formula_desc" : "(Depends on the kind of the capacitor)",
+        "formula_img" : 34,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 35,
+        "name" : "capacitor",
+        "description" : "An electrical device used to store electrical energy; made up of two conductors separated by an insulator.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 36,
+        "name" : "carrier wave",
+        "description" : "A specific part of the radio portion of the electromagnetic spectrum assigned to a radio or television station by the Federal Communications Commission. A station broadcasts by varying its carrier wave.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 37,
+        "name" : "center of mass",
+        "description" : "The point on the object that moves in the same way a point particle would move, also the point which the mass is equally distributed around.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 38,
+        "name" : "centrifugal (Force) ",
+        "description" : "The apparent force that seems to pull on a moving object but does not exert a physical outward push on it and is observed only in rotating frames of reference.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 39,
+        "name" : "centripetal acceleration",
+        "description" : "The center-seeking acceleration of an object moving in a circle at a constant speed.",
+        "formula_desc" : "v = linear velocity\nr = circle radius\nw = angular velocity",
+        "formula_img" : 39,
+        "calc_id" : 39,
+        "video_ids" : []
+    },
+    {
+        "id" : 40,
+        "name" : "centripetal force",
+        "description" : "The net force exerted toward the center of the circle that causes an object to have a centripetal acceleration.",
+        "formula_desc" : "a = centripetal acceleration\nv = linear velocity\nr = circle radius\nw = angular velocity",
+        "formula_img" : 40,
+        "calc_id" : 40,
+        "video_ids" : []
+    },
+    {
+        "id" : 41,
+        "name" : "chain reaction",
+        "description" : "Continual process of repeated fission reactions caused by the release of neutrons from previous fission reactions.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 42,
+        "name" : "charging by conduction",
+        "description" : "The process of charging a neutral object by touching it with a charged object.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 43,
+        "name" : "charging by induction",
+        "description" : "The process of charging an object without touching it, which can be accomplished by bringing a charged object close to a neutral object, causing a separation of charges, then separating the object to be charged, trapping opposite but equal charges.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 44,
+        "name" : "chromatic aberration",
+        "description" : "A lens defect in which light passing through a lens is dispersed, causing an object viewed through a lens to appear ringed with color.\nThe effect produced by the refraction of different wavelengths of light through slightly different angles, resulting in a failure to focus.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 45,
+        "name" : "circuit breaker",
+        "description" : "An automatic switch that opens when the current through an electric circuit exceeds a threshold value.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 46,
+        "name" : "closed-pipe resonator",
+        "description" : "A resonating tube with one end closed to air; its resonant frequencies are odd-numbered multiples of the fundamental.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 47,
+        "name" : "closed system",
+        "description" : "A system that does not gain or lose mass.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 48,
+        "name" : "coefficient of kinetic friction",
+        "description" : "The slope of a line on a kinetic friction force v. normal force graph, μ k. Relates frictional force to normal force and depends on the two surfaces in contact.",
+        "formula_desc" : "Fk = kinetic friction force\nN = perpendicular force",
+        "formula_img" : 48,
+        "calc_id" : 48,
+        "video_ids" : []
+    },
+    {
+        "id" : 49,
+        "name" : "coefficient of linear expansion",
+        "description" : "The change in length divided by the original length and the change in temperature.",
+        "formula_desc" : "L = original length\n∆L = change in length\n∆T = change in temperature",
+        "formula_img" : 49,
+        "calc_id" : 49,
+        "video_ids" : []
+    },
+    {
+        "id" : 50,
+        "name" : "coefficient of static friction",
+        "description" : "A dimensionless constant depending on the two surfaces in contact. It is used to calculate the maximum static frictional force that needs to be overcome before motion begins.",
+        "formula_desc" : "Fs = static friction force\nN = perpendicular force",
+        "formula_img" : 50,
+        "calc_id" : 50,
+        "video_ids" : []
+    },
+    {
+        "id" : 51,
+        "name" : "coefficient of volume expansion",
+        "description" : "The change in volume divided by the original volume and the change in temperature; is about three times the coefficient of linear expansion because solids expand in three directions.",
+        "formula_desc" : "L = original volume\n∆L = change in volume\n∆T = change in temperature",
+        "formula_img" : 51,
+        "calc_id" : 51,
+        "video_ids" : []
+    },
+    {
+        "id" : 52,
+        "name" : "coherent light",
+        "description" : "Light made up of waves of the same wavelength that are in phase with each other.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 53,
+        "name" : "cohesive forces",
+        "description" : "The forces of attraction that like particles exert on one another; responsible for surface tension and viscosity.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 54,
+        "name" : "combination series-parallel circuit",
+        "description" : "A complex electric circuit that includes both series and parallel branches.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 55,
+        "name" : "combined gas law",
+        "description" : "States that, for a fixed amount of an ideal gas, the pressure times the volume, divided by the Kelvin temperature equals a constant; reduces to Boyle’s law if temperature is constant and to Charles’s law if pressure is constant.",
+        "formula_desc" : "P = pressure\nV = volume\nT = temperature in Kelvin (K)",
+        "formula_img" : 55,
+        "calc_id" : 55,
+        "video_ids" : []
+    },
+    {
+        "id" : 56,
+        "name" : "complementary colors",
+        "description" : "Two colors of light that, when combined, produce white light.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 57,
+        "name" : "Components",
+        "description" : "Projections of a vector parallel to the x-axis and another parallel to the y-axis.\n (The value of a vector on each axis.)",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 58,
+        "name" : "compound machine",
+        "description" : "A machine consisting of two or more simple machines that are connected so that the resistance force of one machine becomes the effort force of the second machine",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 59,
+        "name" : "Compton effect",
+        "description" : "The shift in the energy of scattered photons.\n(An increase in wavelength of X-rays or gamma rays that occurs when they are scattered.)",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 60,
+        "name" : "concave lens",
+        "description" : "A diverging lens, thinner at its middle than at its edges, that spreads out light rays passing through it when surrounded by material with a lower index of refraction; produces a smaller, virtual, upright image.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 61,
+        "name" : "concave mirror",
+        "description" : "A mirror that reflects light from its inwardly curving surface, the edges of which curve toward the observer; can produce either an upright, virtual image or an inverted, real image.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 62,
+        "name" : "conductor",
+        "description" : "A material, such as copper, through which a charge will move easily.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 63,
+        "name" : "consonance",
+        "description" : "A pleasant set of pitches.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 64,
+        "name" : "convection",
+        "description" : "A type of thermal energy transfer that occurs due to the motion of fluid in liquid or gas that is caused by differences in temperature.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 65,
+        "name" : "conventional current",
+        "description" : "the direction in which a positive test charge moves.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 66,
+        "name" : "convex lens",
+        "description" : "A converging lens, thicker at its center than at its edges, that refracts parallel light rays so the rays meet at a point when surrounded by a medium with a lower index of refraction; can produce a smaller or larger, inverted, real image or a larger, upright, virtual image.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 67,
+        "name" : "convex mirror",
+        "description" : "A mirror with the edges curved away from the observer that reflects light from its outwardly curving surface; produces an upright, reduced, virtual image.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 68,
+        "name" : "coordinate system",
+        "description" : "A system used to describe motion that gives the zero point location of the variable being studied and the direction in which the values of the variable increase.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 69,
+        "name" : "Coriolis (Force)",
+        "description" : "The apparent force that seems to deflect a moving object from its path and is observed only in rotating frames of reference.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 70,
+        "name" : "coulomb",
+        "description" : "The SI standard unit of charge; one coulomb (C) is the magnitude of the charge of 6.24E18 electrons or protons.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 71,
+        "name" : "Coulomb’s law",
+        "description" : "States that the force between two point charges varies directly with the product of their charge and inversely with the square of the distance between them.",
+        "formula_desc" : "q = charge in coulombs\nk = coloumbs constant (8.99E9)\nr = distance between the two charges",
+        "formula_img" : 71,
+        "calc_id" : 71,
+        "video_ids" : []
+    },
+    {
+        "id" : 72,
+        "name" : "crest",
+        "description" : "The high point of a transverse wave.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 73,
+        "name" : "critical angle",
+        "description" : "The angle of incidence in which a refracted light ray lies along the boundary between two mediums.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 74,
+        "name" : "crystal lattice",
+        "description" : "A fixed, regular pattern formed when the temperature of a liquid is lowered, the average kinetic energy of its particles decreases and, for many solids, the particles become frozen but do not stop moving and instead, vibrate around their fixed positions.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 75,
+        "name" : "de Broglie wavelength",
+        "description" : "The wavelength associated with a moving particle.",
+        "formula_desc" : "λ = wavelength\nh = Planck's constant\nm = mass in kg\nv = velocity in m/s",
+        "formula_img" : 75,
+        "calc_id" : 75,
+        "video_ids" : []
+    },
+    {
+        "id" : 76,
+        "name" : "decibel",
+        "description" : "The most common unit of measurement for sound level; also can describe the power and intensity of sound waves. Abbreviated dB.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 77,
+        "name" : "dependent variable",
+        "description" : "The factor in an investigation that depends on the independent variable.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 78,
+        "name" : "depletion layer",
+        "description" : "The region around a pn-junction diode where there are no charge carriers and electricity is poorly conducted.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 79,
+        "name" : "dielectric",
+        "description" : "A poor conductor of electric current whose electric charges partially align with an electric field.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 80,
+        "name" : "diffraction",
+        "description" : "The bending of light around a barrier.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 81,
+        "name" : "diffraction grating",
+        "description" : "A device consisting of many small, closely-spaced slits that diffract light and form a diffraction pattern that is an overlap of single-slit diffraction patterns; can be used to precisely measure light wavelength or to separate light of different wavelengths.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 82,
+        "name" : "diffraction pattern",
+        "description" : "A pattern on a screen of constructive and destructive interference of Huygens’ wavelets.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 83,
+        "name" : "diffuse reflection",
+        "description" : "A scattered, fuzzy reflection produced by a rough surface.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 84,
+        "name" : "dimensional analysis",
+        "description" : "A method of treating units as algebraic quantities that can be cancelled; can be used to check that an answer will be in the correct units.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 85,
+        "name" : "diode",
+        "description" : "The simplest semiconductor device; conducts charges in one direction only and consists of a sandwich of p-type and n-type semiconductors.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 86,
+        "name" : "dispersion",
+        "description" : "The separation of white light into a spectrum of colors by such means as a glass prism or water droplets in the atmosphere.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 87,
+        "name" : "displacement",
+        "description" : "A change in position having both magnitude and direction; is equal to the final position minus the initial position.",
+        "formula_desc" : "x = position",
+        "formula_img" : 87,
+        "calc_id" : 87,
+        "video_ids" : []
+    },
+    {
+        "id" : 88,
+        "name" : "dissonance",
+        "description" : "An unpleasant, jarring set of pitches.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 89,
+        "name" : "distance",
+        "description" : "The entire length of an object’s path, even if the object moves in many directions.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 90,
+        "name" : "domain",
+        "description" : "A very small group, usually 10–1000 μm on a side, that is formed when the magnetic fields of the electrons in a group of neighboring atoms are aligned in the same direction.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 91,
+        "name" : "dopant",
+        "description" : "Material with electron donor or acceptor atoms that can be added in low concentration to intrinsic semiconductors, increasing their conductivity by making either extra electrons or holes available.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 92,
+        "name" : "Doppler effect",
+        "description" : "The change in the frequency of sound or Light caused by the movement of either the source, the detector, or both the detector and the source.",
+        "formula_desc" : "f' = observed frequency\nf = actual frequency\nv = speed of wave\nVo = velocity of observer\nVs = velocity of source",
+        "formula_img" : 92,
+        "calc_id" : 92,
+        "video_ids" : []
+    },
+    {
+        "id" : 93,
+        "name" : "drag force",
+        "description" : "The force exerted by a fluid on an object that opposes the object’s motion through the fluid; depends on the object’s motion and properties and the fluid’s properties.",
+        "formula_desc" : "Fd = Drag force\nCd = Drag coefficient\nA = Surface area\nρ = Fluid density\nV = Flow velocity",
+        "formula_img" : 93,
+        "calc_id" : 93,
+        "video_ids" : []
+    },
+    {
+        "id" : 94,
+        "name" : "eddy current",
+        "description" : "A current generated in a piece of metal that is moving through a changing magnetic field, producing a magnetic field that opposes the motion that caused the current.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 95,
+        "name" : "efficiency",
+        "description" : "The ratio of output work to input work.",
+        "formula_desc" : "η = efficiency (percentage)\nW = work\n(Can be used for values other than work as well)",
+        "formula_img" : 95,
+        "calc_id" : 95,
+        "video_ids" : []
+    },
+    {
+        "id" : 96,
+        "name" : "effort force",
+        "description" : "The force a user exerts on a machine.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 97,
+        "name" : "elastic collision",
+        "description" : "A type of collision in which the kinetic energy before and after the collision remains the same.",
+        "formula_desc" : "KE = kinetic energy\nP = momentum",
+        "formula_img" : 97,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 98,
+        "name" : "elastic potential energy",
+        "description" : "Stored energy due to an object’s change in shape.",
+        "formula_desc" : "k = object's elastic constant\nx = extension",
+        "formula_img" : 98,
+        "calc_id" : 98,
+        "video_ids" : []
+    },
+    {
+        "id" : 99,
+        "name" : "electric circuit",
+        "description" : "A closed loop or pathway that allows electric charges to flow.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 100,
+        "name" : "electric current",
+        "description" : "A flow of charged particles.",
+        "formula_desc" : "I = current in Amperes\nV = Voltage in Voltes\nR = Resistance in Ohms",
+        "formula_img" : 100,
+        "calc_id" : 100,
+        "video_ids" : []
+    },
+    {
+        "id" : 101,
+        "name" : "electric field",
+        "description" : "A property of the space around a charged object that exerts forces on other charged objects.",
+        "formula_desc" : "E = electric field\n∆V = potential energy difference(Voltage)\nd = distance",
+        "formula_img" : 101,
+        "calc_id" : 101,
+        "video_ids" : []
+    },
+    {
+        "id" : 102,
+        "name" : "electric field line",
+        "description" : "A line that indicates the direction of the force due to the electric field on a positive test charge; the spacing between the lines indicates the field’s strength; a closer line spacing indicates a stronger field; the lines never cross and they are directed toward negative charges and away from positive charges.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 103,
+        "name" : "electric generator",
+        "description" : "A device that converts mechanical energy to electrical energy and consists of a number of wire loops placed in a strong magnetic field.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 104,
+        "name" : "electric motor",
+        "description" : "An apparatus that converts electrical energy into mechanical energy.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 105,
+        "name" : "electric potential difference",
+        "description" : "The work needed to move a positive test charge from one point to another, divided by the magnitude of the test charge; also called potential difference.",
+        "formula_desc" : "∆V = difference in potential energy(Voltage)\nE = electric field\nd = distance\nW = Work(Energy)\nq = charge",
+        "formula_img" : 105,
+        "calc_id" : 105,
+        "video_ids" : []
+    },
+    {
+        "id" : 106,
+        "name" : "electromagnet",
+        "description" : "A type of magnet whose magnetic field is produced by electric current.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 107,
+        "name" : "electromagnetic induction",
+        "description" : "The process of generating a current through a circuit due a changing magnetic field or to the relative motion between a wire and a magnetic field.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 108,
+        "name" : "electromagnetic radiation",
+        "description" : "Energy that is carried, or radiated, in the form of electromagnetic waves.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 109,
+        "name" : "electromagnet spectrum",
+        "description" : "The entire range of frequencies and wavelengths that make up continuum of electromagnetic waves.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 110,
+        "name" : "electromagnetic wave",
+        "description" : "Coupled, oscillating electric and magnetic field that travels through space and matter.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 111,
+        "name" : "electron cloud",
+        "description" : "The region in which there is a high probability of finding an electron.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 112,
+        "name" : "electroscope",
+        "description" : "A device that is used to detect electric charges and consists of a metal knob connected by a metal stem to two thin metal leaves.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 113,
+        "name" : "electrostatics",
+        "description" : "The study of electric charges that can be collected and held in one place.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 114,
+        "name" : "elementary charge",
+        "description" : "The magnitude of the charge of an electron; approximately 1.602E-19 C.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 115,
+        "name" : "emission spectrum",
+        "description" : "A plot of the intensity of radiation emitted from an object over a range of frequencies.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 116,
+        "name" : "energy",
+        "description" : "The ability of a system to produce a change in itself or in the world around it; represented by the symbol E.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 117,
+        "name" : "energy level",
+        "description" : "The quantized amount of energy allowed for electrons in an atom.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 118,
+        "name" : "entropy",
+        "description" : "A measure of the energy dispersal in a system.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 119,
+        "name" : "equilibrant",
+        "description" : "A force that places an object in equilibrium; the same magnitude as the resultant but opposite in direction.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 120,
+        "name" : "equilibrium",
+        "description" : "The condition in which the net force on an object is zero.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 121,
+        "name" : "equipotential",
+        "description" : "The electric potential difference of zero between two or more positions in an electric field.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 122,
+        "name" : "equivalent resistance",
+        "description" : "The value of a single resistor that, when it replaces all the resistors in the circuit, results in the same current.",
+        "formula_desc" : "R = Resistance value in ohms for each resistor",
+        "formula_img" : 122,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 123,
+        "name" : "excited state",
+        "description" : "Any energy level of an atom that is higher than its ground state.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 124,
+        "name" : "extrinsic semiconductor",
+        "description" : "Semiconductor with greatly enhanced conductivity resulting from the addition of dopants.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 125,
+        "name" : "farsightedness",
+        "description" : "A vision defect in which a person cannot see close objects clearly because images are focused behind the retina; also called hyperopia; can be corrected with a convex lens.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 126,
+        "name" : "first law of thermodynamics",
+        "description" : "States that the change in thermal energy of a system is equal to the heat that is added to the system, minus the work done by the system.",
+        "formula_desc" : "∆U = change in thermal energy\nQ = heat added to the system\nW = work done by the system",
+        "formula_img" : 126,
+        "calc_id" : 126,
+        "video_ids" : []
+    },
+    {
+        "id" : 127,
+        "name" : "fission",
+        "description" : "The process in which a nucleus is divided into two or more fragments, and neutrons and energy are released.\nThe action of dividing or splitting something into two or more parts.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 128,
+        "name" : "fluid",
+        "description" : "A material, such as a liquid or gas, that can flow and has no definite shape of its own.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 129,
+        "name" : "focal length",
+        "description" : "The distance between the focal point and the mirror or lens.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 130,
+        "name" : "focal point",
+        "description" : "The point where incident light rays that are parallel to the principal axis converge after reflecting from a mirror or refracting through a lens.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 131,
+        "name" : "force",
+        "description" : "A push or a pull exerted on an object; has both direction and magnitude and may be a contact or a field force.",
+        "formula_desc" : "f = force applied\nm = mass of object\na = acceleration",
+        "formula_img" : 131,
+        "calc_id" : 131,
+        "video_ids" : []
+    },
+    {
+        "id" : 132,
+        "name" : "force carrier",
+        "description" : "A particle that transmits, or carries, forces between objects interacting at a distance; also called a gauge boson.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 133,
+        "name" : "free-body diagram",
+        "description" : "A physical model that represents the forces acting on a system.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 134,
+        "name" : "free fall",
+        "description" : "The motion of an object body when air resistance is negligible and the motion can be considered due to the force of gravity alone.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 135,
+        "name" : "free-fall acceleration",
+        "description" : "The acceleration of an object due only to the effect of gravity.",
+        "formula_desc" : "g = Free-fall acceleration\nG = Gravitational constant\nm = mass of the attracting object\nr = Distance from attracting object",
+        "formula_img" : 142,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 136,
+        "name" : "frequency",
+        "description" : "The number of complete oscillations a point on a wave makes each second; measured in hertz (Hz).",
+        "formula_desc" : "f = Frequency in Hz\nω = Angular Velocity(in the mentioned unit)\nT = Period Time",
+        "formula_img" : 136,
+        "calc_id" : 136,
+        "video_ids" : []
+    },
+    {
+        "id" : 137,
+        "name" : "fundamental",
+        "description" : "For a musical instrument, the lowest frequency of sound that will resonate.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 138,
+        "name" : "fuse",
+        "description" : "A short piece of metal that acts as a safety device by melting and stopping the current when too large a current passes through it.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 139,
+        "name" : "fusion",
+        "description" : "The process in which nuclei with small masses combine to form a nucleus with a larger mass and energy is released.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 140,
+        "name" : "galvanometer",
+        "description" : "A device that is used to measure very small currents; can be used as a voltmeter or an ammeter.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 141,
+        "name" : "gamma decay",
+        "description" : "The radioactive decay process in which there is a redistribution of energy within the nucleus but no change in atomic mass or charge, and a gamma ray is emitted.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 142,
+        "name" : "gravitational field",
+        "description" : "A vector quantity that relates the mass of an object to the gravitational force it experiences at a given location; represented by the symbol g.",
+        "formula_desc" : "g = gravitational field strength of an object at a given point\nG = gravitational constant(6.674E-11)\nm = mass of object\nr = distance in between (measured from the center of mass)",
+        "formula_img" : 142,
+        "calc_id" : 142,
+        "video_ids" : []
+    },
+    {
+        "id" : 143,
+        "name" : "gravitational force",
+        "description" : "The attractive force between two objects that is directly proportional to the mass of the objects.",
+        "formula_desc" : "Fg = gravitational force between two objects\nG = gravitational constant(6.674E-11)\nm = masses of the two objects\nr = distance in between (measured from the center of mass)",
+        "formula_img" : 143,
+        "calc_id" : 143,
+        "video_ids" : []
+    },
+    {
+        "id" : 144,
+        "name" : "gravitational mass",
+        "description" : "Mass as used in the law of universal gravitation; the quantity that measures an object’s response to gravitational force.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 145,
+        "name" : "gravitational potential energy",
+        "description" : "The stored energy in a system resulting from the gravitational force between objects.\n(On earth):Gravitational potential energy is the energy stored in an object as the result of its vertical position or height.",
+        "formula_desc" : "Ug = gravitational potential energy\nm = object's mass\nh = height\nG = gravitational constant\nr = distance in between (measured from the center of gravity)",
+        "formula_img" : 145,
+        "calc_id" : 145,
+        "video_ids" : []
+    },
+    {
+        "id" : 146,
+        "name" : "ground-fault interrupter",
+        "description" : "A device that contains an electronic circuit that detects small current differences caused by an extra current path; it opens the circuit, prevents electrocution, and often is required as a safety measure for bathroom, kitchen, and exterior outlets.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 147,
+        "name" : "grounding",
+        "description" : "The process of removing excess charge by touching an object to Earth.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 148,
+        "name" : "ground state",
+        "description" : "State of an atom with the smallest allowable amount of energy.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 149,
+        "name" : "half-life",
+        "description" : "The time required for half the atoms in a given quantity of a radioactive isotope to decay.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 150,
+        "name" : "harmonics",
+        "description" : "Higher frequencies, which are whole-numbered multiples of the fundamental frequency; give certain musical instruments their own unique timbre.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 151,
+        "name" : "heat",
+        "description" : "A transfer of thermal energy, which occurs spontaneously from a warmer object to a cooler object; represented by Q.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 152,
+        "name" : "heat engine",
+        "description" : "A device that continuously converts thermal energy to mechanical energy; requires a high-temperature thermal energy source, a low- temperature receptacle (a sink), and a way to convert the thermal energy into work.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 153,
+        "name" : "heat of fusion",
+        "description" : "The amount of thermal energy required to change 1 kg of a substance from a solid state to a liquid state at its melting point.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 154,
+        "name" : "heat of vaporization",
+        "description" : "The amount of thermal energy required to change 1 kg of a substance from a liquid state to a gaseous state at its boiling point.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 155,
+        "name" : "Heisenberg uncertainty principle",
+        "description" : "States there is a limit to how precisely a particle’s position and momentum can simultaneously be measured.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 156,
+        "name" : "Hooke’s law",
+        "description" : "States that the force acting on a spring is directly proportional to the amount the spring is stretched.",
+        "formula_desc" : "Fs = Force applied on spring\nk = spring's constant\nx = expansion",
+        "formula_img" : 156,
+        "calc_id" : 156,
+        "video_ids" : []
+    },
+    {
+        "id" : 157,
+        "name" : "hypothesis",
+        "description" : "A possible explanation for a problem using what you know and what you observe.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 158,
+        "name" : "ideal gas law",
+        "description" : "For an ideal gas, the pressure times the volume is equal to the number of moles, times the constant (R) and the Kelvin temperature; predicts the behavior of gases remarkably well unless under high-pressure or low-temperature conditions.",
+        "formula_desc" : "P = Pressure\nV = Volume\nn = moles\nR = Gas constant(8.3145)\nT = Temperature in Kelvins",
+        "formula_img" : 158,
+        "calc_id" : 158,
+        "video_ids" : []
+    },
+    {
+        "id" : 159,
+        "name" : "ideal mechanical advantage",
+        "description" : "For an ideal machine, is equal to the displacement of the effort force divided by displacement of the resistance force.",
+        "formula_desc" : "",
+        "formula_img" : 159,
+        "calc_id" : 159,
+        "video_ids" : []
+    },
+    {
+        "id" : 160,
+        "name" : "illuminance",
+        "description" : "The rate at which light strikes a surface, or falls on a unit area; measured in lumens per square meter (lm/m2) or lux (lx).",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 161,
+        "name" : "image",
+        "description" : "An optical reproduction of an object formed by the combination of light rays reflected or refracted by an optical device.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 162,
+        "name" : "impulse",
+        "description" : "The product of the average net force on an object and the time interval over which the force acts.",
+        "formula_desc" : "F = Force\n∆t = time internval\nP = momentum",
+        "formula_img" : 162,
+        "calc_id" : 162,
+        "video_ids" : []
+    },
+    {
+        "id" : 163,
+        "name" : "impulse-momentum theorem",
+        "description" : "States that the impulse on an object equals the object’s final momentum minus the object’s initial momentum.",
+        "formula_desc" : "F = Force\n∆t = time internval\nP = momentum",
+        "formula_img" : 162,
+        "calc_id" : 162,
+        "video_ids" : []
+    },
+    {
+        "id" : 164,
+        "name" : "incident wave",
+        "description" : "A wave pulse that strikes a boundary between two mediums.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 165,
+        "name" : "incoherent light",
+        "description" : "Light whose waves are not in phase.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 166,
+        "name" : "independent variable",
+        "description" : "The factor that is changed or manipulated during an investigation.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 167,
+        "name" : "index of refraction",
+        "description" : "Determines the angle of refraction of light as it crosses the boundary between mediums; for a given medium, it is the ratio of the speed of light in a vacuum to the speed of light in that medium; represented by the symbol n.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 168,
+        "name" : "induced electromotive force",
+        "description" : "The potential difference across a wire that results from the production of an electric field.",
+        "formula_desc" : "",
+        "formula_img" :0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 169,
+        "name" : "inelastic collision",
+        "description" : "A type of collision in which the kinetic energy after the collision is less than the kinetic energy before the collision.",
+        "formula_desc" : "KE = kinetic energy\nP = momentum",
+        "formula_img" : 169,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 170,
+        "name" : "inertia",
+        "description" : "The tendency of an object to resist changes in velocity.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 171,
+        "name" : "inertial mass",
+        "description" : "A measure of an object’s resistance to any type of force.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 172,
+        "name" : "instantaneous acceleration",
+        "description" : "The change in an object’s velocity at a specific instant.",
+        "formula_desc" : "v = velocity\nt = time",
+        "formula_img" : 172,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 173,
+        "name" : "instantaneous position",
+        "description" : "The position of an object at any particular instant.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 174,
+        "name" : "instantaneous velocity",
+        "description" : "A measure of motion that tells the speed and direction of an object at a specific instant.",
+        "formula_desc" : "x = position\nt = time",
+        "formula_img" : 174,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 175,
+        "name" : "insulator",
+        "description" : "A material, such as glass, through which a charge will not move easily.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 176,
+        "name" : "interaction pair",
+        "description" : "A pair of forces that are equal in strength but opposite in direction and act on different objects.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 177,
+        "name" : "interference",
+        "description" : "Results from the superposition of two or more waves; can be constructive or destructive.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 178,
+        "name" : "interference fringes",
+        "description" : "A pattern of light and dark bands on a screen, resulting from the constructive and destructive interference of light waves passing through two narrow, closely spaced slits in a barrier.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 179,
+        "name" : "intrinsic semiconductor",
+        "description" : "Pure semiconductor that conducts charge as a result of thermally freed electrons.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 180,
+        "name" : "inverse relationship",
+        "description" : "A hyperbolic relationship that exists when one variable depends on the inverse of the other variable.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 181,
+        "name" : "isolated system",
+        "description" : "A closed system on which the net external force is zero.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 182,
+        "name" : "isotope",
+        "description" : "Each of the differing forms of the same atom that have different masses but have the same chemical properties; atoms with the same number of protons, but different numbers of neutrons.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 183,
+        "name" : "joule",
+        "description" : "The SI unit of work and energy (J); 1 J of work is done when a force of 1 N acts on an object over a displacement of 1 m.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 184,
+        "name" : "Kepler’s first law",
+        "description" : "States that the planets move in elliptical paths with the Sun at one focus.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 185,
+        "name" : "Kepler’s second law",
+        "description" : "States that an imaginary line from the Sun to a planet sweeps out equal areas in equal time intervals.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 186,
+        "name" : "Kepler’s third law",
+        "description" : "States that the square of the ratio of the periods of any two planets is equal to the cube of the ratio of their average distances from the Sun.",
+        "formula_desc" : "P = Period in days\na = Semimajor axis in AU\nMtot = total mass in solar masses",
+        "formula_img" : 186,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 187,
+        "name" : "kilowatt-hour",
+        "description" : "An energy unit used by electric companies to measure energy sales; 1 kWh is equal to 1000 watts (W) delivered continuously for 3600 s (1 h).",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 188,
+        "name" : "kinetic energy",
+        "description" : "The energy of an system that is associated with its motion.",
+        "formula_desc" : "m = mass of object\nv = velocity",
+        "formula_img" : 188,
+        "calc_id" : 188,
+        "video_ids" : []
+    },
+    {
+        "id" : 189,
+        "name" : "kinetic friction",
+        "description" : "The force exerted on one surface by a second surface when the two surfaces rub against each other because one or both of the surfaces are moving.",
+        "formula_desc" : "μ = Coefficient of kinetic friction\nN = Perpendicular force",
+        "formula_img" : 189,
+        "calc_id" : 189,
+        "video_ids" : []
+    },
+    {
+        "id" : 190,
+        "name" : "laser",
+        "description" : "A device that produces powerful, coherent, directional, monochromatic light that can be used to excite other atoms; the acronym stands for light amplification by stimulated emission of radiation.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 191,
+        "name" : "law of conservation of angular momentum",
+        "description" : "States that if there are no net external torques on a closed system, then its angular momentum is conserved.",
+        "formula_desc" : "L = angular momentum",
+        "formula_img" : 191,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 192,
+        "name" : "law of conservation of energy",
+        "description" : "States that in a closed, isolated system, energy is not created or destroyed, but rather, is conserved.",
+        "formula_desc" : "ME = Mechanical Energy (total Energy in a system)",
+        "formula_img" : 192,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 193,
+        "name" : "law of conservation of momentum",
+        "description" : "States that the momentum of any closed, isolated system does not change.",
+        "formula_desc" : "P = Momentum",
+        "formula_img" : 193,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 194,
+        "name" : "law of reflection",
+        "description" : "States that the angle of incidence is equal to the angle of reflection.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 195,
+        "name" : "law of universal gravitation",
+        "description" : "States that gravitational force between any two objects is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers.",
+        "formula_desc" : "Fg = gravitational force between two objects\nG = gravitational constant(6.674E-11)\nm = masses of the two objects\nr = distance in between (measured from the center of mass)",
+        "formula_img" : 143,
+        "calc_id" : 143,
+        "video_ids" : []
+    },
+    {
+        "id" : 196,
+        "name" : "lens",
+        "description" : "A piece of transparent material, such as glass or plastic, that is used to focus light and form an image.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 197,
+        "name" : "Lenz’s law",
+        "description" : "States that an induced current always is produced in a direction such that the magnetic field resulting from the induced current opposes the change in the magnetic field that is causing the induced current.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 198,
+        "name" : "lepton",
+        "description" : "An elementary particle, such as an electron or a neutrino, that forms mass but belongs to a different family than quarks.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 199,
+        "name" : "lever arm",
+        "description" : "The perpendicular distance from the axis of rotation to the point where force is exerted.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 200,
+        "name" : "linear relationship",
+        "description" : "A relationship in which the dependent variable varies linearly with the independent variable.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 201,
+        "name" : "line of best fit",
+        "description" : "A line drawn on a graph as close to all the data points as possible; used to describe data and predict where new data will appear on the graph.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 202,
+        "name" : "longitudinal wave",
+        "description" : "A mechanical wave in which the disturbance is in the same direction, or parallel to, the direction of wave travel.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 203,
+        "name" : "loudness",
+        "description" : "Sound intensity as sensed by the ear and interpreted by the brain; depends mainly on the pressure wave’s amplitude.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 204,
+        "name" : "luminous flux",
+        "description" : "The rate at which light energy is emitted from a luminous source; measured in lumens (lm).",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 205,
+        "name" : "luminous source",
+        "description" : "An object, such as the Sun or a lightbulb, that emits light.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 206,
+        "name" : "machine",
+        "description" : "A device that makes work easier (but does not change the amount of work) by changing the magnitude or the direction of the force exerted to do work.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 207,
+        "name" : "magnetic field",
+        "description" : "The area around a magnet, or around any current-carrying wire or coil of wire, where a magnetic force exists.",
+        "formula_desc" : "μo = Magnetic permeability(4πE-7)\nI = Current\nR = Radius\nr = Distance from wire\nN = Number of loops",
+        "formula_img" : 207,
+        "calc_id" : 207,
+        "video_ids" : []
+    },
+    {
+        "id" : 208,
+        "name" : "magnetic flux",
+        "description" : "The number of magnetic field lines that pass through a perpendicular surface.",
+        "formula_desc" : "B = Magnetic field value\nA = Surface area vector\nθ = Angle between B and A",
+        "formula_img" : 208,
+        "calc_id" : 208,
+        "video_ids" : []
+    },
+    {
+        "id" : 209,
+        "name" : "magnification",
+        "description" : "The amount that an image is enlarged or reduced in size, relative to the object.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 210,
+        "name" : "magnitude",
+        "description" : "A measure of size.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 211,
+        "name" : "Malus’s law",
+        "description" : "States that the intensity of light coming out of a second polarizing filter equals the intensity of polarized light coming out of a first polarizing filter times the cosine, squared, of the angle between the polarizing axes of the two filters.",
+        "formula_desc" : "I = light intensity\nθ = angle between the polarizing axes of the two filters",
+        "formula_img" : 211,
+        "calc_id" : 211,
+        "video_ids" : []
+    },
+    {
+        "id" : 212,
+        "name" : "mass defect",
+        "description" : "The difference between the sum of the masses of individual nucleons and the mass of the assembled nucleus.",
+        "formula_desc" : "mp = mass of proton(1.672E-27)\nmn = mass of neutron(1.675E-27)\nZ = number of protons\nN = number of neutrons\nMA = total mass of nucleus",
+        "formula_img" : 212,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 213,
+        "name" : "mass number",
+        "description" : "The number of nucleons in an atom’s nucleus.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 214,
+        "name" : "mass spectrometer",
+        "description" : "Device that uses both electric and magnetic fields to measure the charge-to-mass ratio of positive ions within a material; can be used to determine the masses of ions.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 215,
+        "name" : "measurement",
+        "description" : "A comparison between an unknown quantity and a standard.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 216,
+        "name" : "mechanical advantage",
+        "description" : "- The ratio of resistance force to effort force.\n- the ratio of the force produced by a machine to the force applied to it, used in assessing the performance of a machine.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 217,
+        "name" : "mechanical energy",
+        "description" : "The sum of kinetic energy and potential energy of the objects in a system.",
+        "formula_desc" : "KE = Kinetic Energy\nU = potential energy",
+        "formula_img" : 217,
+        "calc_id" : 217,
+        "video_ids" : []
+    },
+    {
+        "id" : 218,
+        "name" : "microchip",
+        "description" : "An integrated circuit consisting of thousands of diodes, transistors, resistors, and conductors.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 219,
+        "name" : "model",
+        "description" : "A representation of an idea, event, structure, or object to help people better understand it.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 220,
+        "name" : "moment of inertia",
+        "description" : "The resistance to rotation.",
+        "formula_desc" : "M = mass\nR = radius\nL = length",
+        "formula_img" : 220,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 221,
+        "name" : "momentum",
+        "description" : "The product of the object’s mass and the object’s velocity; measured in kg·m/s.",
+        "formula_desc" : "m = mass\nv = velocity\nI = moment of inertia\nw = angular velocity",
+        "formula_img" : 221,
+        "calc_id" : 221,
+        "video_ids" : []
+    },
+    {
+        "id" : 222,
+        "name" : "monochromatic light",
+        "description" : "Light having only one wavelength.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 223,
+        "name" : "motion diagram",
+        "description" : "A series of images showing the positions of a moving object taken at regular (equal) time intervals.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 224,
+        "name" : "mutual inductance",
+        "description" : "Effect in which a changing current in a coil creates a changing magnetic field that induces a varying EMF in a second coil.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 225,
+        "name" : "nearsightedness",
+        "description" : "A vision defect in which a person cannot see distant objects clearly because images are focused in front of the retina; also called myopia; can be corrected with a concave lens.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 226,
+        "name" : "net force",
+        "description" : "The vector sum of all the forces on an object.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 227,
+        "name" : "neutral",
+        "description" : "An object whose positive charges are exactly balanced by its negative charges. (an object that has no charge)",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 228,
+        "name" : "Newton’s first law",
+        "description" : "States that an object at rest will remain at rest and a moving object will continue moving in a straight line with constant speed, if and only if the net force acting on that object is zero.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 229,
+        "name" : "Newton’s second law",
+        "description" : "States that the acceleration of an object is proportional to the net force and inversely proportional to the mass of the object being accelerated.",
+        "formula_desc" : "m = mass\na = acceleration",
+        "formula_img" : 131,
+        "calc_id" : 131,
+        "video_ids" : []
+    },
+    {
+        "id" : 230,
+        "name" : "Newton’s second law for rotational motion",
+        "description" : "States that the angular acceleration of an object is directly proportional to the net torque on it and inversely proportional to its moment of inertia.",
+        "formula_desc" : "τ = Torque\nI = moment of inertia\nα = angular acceleration",
+        "formula_img" : 230,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 231,
+        "name" : "Newton’s third law",
+        "description" : "States that all forces come in pairs and that the two forces in a pair act on different objects, are equal in strength, and are opposite in direction.",
+        "formula_desc" : "",
+        "formula_img" : 231,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 232,
+        "name" : "node",
+        "description" : "The stationary point where two equal wave pulses meet and are in the same location, having a displacement of zero.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 233,
+        "name" : "normal",
+        "description" : "The line in a ray diagram that shows the orientation of the barrier or mirror and is drawn at a right angle, or perpendicular, to the barrier or mirror.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 234,
+        "name" : "normal force",
+        "description" : "The perpendicular contact force exerted by a surface on an object.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 235,
+        "name" : "nuclear reaction",
+        "description" : "Occurs when the energy or number of neutrons or protons in a nucleus changes.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 236,
+        "name" : "nucleon",
+        "description" : "A particle found in the nucleus of an atom; that is, a proton or a neutron.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 237,
+        "name" : "nucleus",
+        "description" : "The positively charged central core of an atom.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 238,
+        "name" : "object",
+        "description" : "an identifiable collection of matter, which may be constrained by an identifiable boundary, and may move as a unit by translation or rotation, in 3-dimensional space.\nalso: A luminous or illuminated source of light rays.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 239,
+        "name" : "opaque",
+        "description" : "A property of a medium that allows that medium to absorb light and reflect some light rather than transmitting it, preventing objects from being seen through it.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 240,
+        "name" : "open-pipe resonator",
+        "description" : "A resonating tube with both ends open that also will resonate with a sound source; its resonant frequencies are whole-number multiples of the fundamental.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 241,
+        "name" : "origin",
+        "description" : "The point at which both variables in a coordinate system have the value zero.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 242,
+        "name" : "pair production",
+        "description" : "The conversion of energy into a matter-antimatter pair of particles.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 243,
+        "name" : "parallel circuit",
+        "description" : "A type of electric circuit in which there are several current paths; its total current is equal to the sum of the currents in the individual branches, and if any branch is opened, the current in the other branches remains unchanged.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 244,
+        "name" : "parallel connection",
+        "description" : "A type of connection in which there are two or more current paths to follow.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 245,
+        "name" : "particle model",
+        "description" : "A simplified version of a motion diagram in which the moving object is replaced by a series of single points.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 246,
+        "name" : "pascal",
+        "description" : "The SI unit of pressure; equal to 1 N/m^2.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 247,
+        "name" : "Pascal’s principle",
+        "description" : "States that any change in pressure applied at any point on a confined fluid is transferred undiminished throughout the fluid.",
+        "formula_desc" : "P = Pressure\nF = Force\nA = Area",
+        "formula_img" : 247,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 248,
+        "name" : "period",
+        "description" : "In any periodic motion, the amount of time required for an object to repeat one complete cycle of motion.",
+        "formula_desc" : "f = frequency\nλ = wavelength\nv = Velocity",
+        "formula_img" : 248,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 249,
+        "name" : "periodic motion",
+        "description" : "Any motion that repeats in a regular cycle.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 250,
+        "name" : "periodic wave",
+        "description" : "A wave whose disturbances occur at a constant rate.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 251,
+        "name" : "photoelectric effect",
+        "description" : "The emission of electrons by certain metals that occurs when they are exposed to electromagnetic radiation.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 252,
+        "name" : "photon",
+        "description" : "A discrete, quantized bundle of radiation that travels at the speed of light, has zero mass, and has energy and momentum.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 253,
+        "name" : "physics",
+        "description" : "The branch of science that studies matter and energy and their relationships.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 254,
+        "name" : "piezoelectricity",
+        "description" : "The property of a crystal that causes it to bend or deform, producing electric vibrations, when a voltage is applied across it.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 255,
+        "name" : "pitch",
+        "description" : "The highness or lowness of a sound, which depends on the frequency of vibration; can be given a name on the musical scale.",
+        "formula_desc" : "f = Frequency in Hz\nω = Angular Velocity(in the mentioned unit)\nT = Period Time",
+        "formula_img" : 136,
+        "calc_id" : 136,
+        "video_ids" : []
+    },
+    {
+        "id" : 256,
+        "name" : "plane mirror",
+        "description" : "A flat, smooth surface from which light is reflected by specular reflection, producing a virtual image that is the same size as the object, has the same orientation, and is the same distance from the mirror as the object.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 257,
+        "name" : "plasma",
+        "description" : "A gaslike, fluid state of matter made up of negatively charged electrons and positively charged ions that can conduct electric charge; makes up most of the matter in the universe, such as stars.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 258,
+        "name" : "polarization (waves)",
+        "description" : "Production of light with a specific pattern of oscillation.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 259,
+        "name" : "polarized",
+        "description" : "The characteristic of magnets that they have two opposite ends called poles.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 260,
+        "name" : "position",
+        "description" : "The distance and direction from the origin to an object.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 261,
+        "name" : "position-time graph",
+        "description" : "A graph that can be used to determine an object’s velocity and position, as well as where and when two objects meet, made by plotting the time data on a horizontal axis and the position data on a vertical axis.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 262,
+        "name" : "potential energy",
+        "description" : "Stored energy due to the interactions between objects in a system.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 263,
+        "name" : "power",
+        "description" : "The rate at which energy is transformed.",
+        "formula_desc" : "P = Power\nW = work\nt = time",
+        "formula_img" : 263,
+        "calc_id" : 263,
+        "video_ids" : []
+    },
+    {
+        "id" : 264,
+        "name" : "precision",
+        "description" : "A characteristic of a measured value describing the degree of exactness of a measurement.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 265,
+        "name" : "pressure",
+        "description" : "The perpendicular component of a force on a surface divided by the surface’s area.",
+        "formula_desc" : "P = Pressure in Pascals\nF = Applied Force\nA = Surface Area",
+        "formula_img" : 265,
+        "calc_id" : 265,
+        "video_ids" : []
+    },
+    {
+        "id" : 266,
+        "name" : "primary color",
+        "description" : "Red, green, and blue, which can be combined to form white light and mixed in pairs to produce the secondary colors yellow, cyan, and magenta.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 267,
+        "name" : "primary pigment",
+        "description" : "Cyan, magenta, and yellow, each of which absorbs one primary color from white light and reflects two primary colors; can be mixed in pairs to produce the secondary pigments red, green, and blue.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 268,
+        "name" : "principal axis",
+        "description" : "A straight line perpendicular to the surface of a mirror or lens that divides the mirror or lens in half.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 269,
+        "name" : "principal quantum number",
+        "description" : "The integer (n) that determines the quantized values of r and E for an electron’s orbital radius in hydrogen and the energy of a hydrogen atom.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 270,
+        "name" : "principle of superposition",
+        "description" : "States that the displacement of a medium caused by two or more waves is the algebraic sum of the displacements of the individual waves.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 271,
+        "name" : "projectile",
+        "description" : "An object shot through the air, such as a football, that has independent vertical and horizontal motions and, after receiving an initial thrust, travels through the air only under the force of gravity.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 272,
+        "name" : "quadratic relationship",
+        "description" : "A parabolic relationship that results when one variable depends on the square of another variable.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 273,
+        "name" : "quantized",
+        "description" : "The property of energy that it exists only in bundles of specific amounts.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 274,
+        "name" : "quantum mechanics",
+        "description" : "The study of the properties of matter using its wave properties.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 275,
+        "name" : "quantum model",
+        "description" : "A model of the atom that predicts only the probability that an electron is in a specific region.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 276,
+        "name" : "quark",
+        "description" : "A tiny elementary particle that forms mass and can combine with other quarks to form larger particle such as protons, neutrons, and pions.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 277,
+        "name" : "radian",
+        "description" : "a unit of measurement of angles equal to about 57.3°, equivalent to the angle subtended at the centre of a circle by an arc equal in length to the radius.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 278,
+        "name" : "radiation",
+        "description" : "The thermal transfer of energy by electromagnetic waves.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 279,
+        "name" : "radioactive",
+        "description" : "Materials with nuclei that emit particles and energy.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 280,
+        "name" : "ray",
+        "description" : "A line drawn at a right angle to a wavefront; represents the direction of wave travel.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 281,
+        "name" : "Rayleigh criterion",
+        "description" : "States that if the central bright spot of one image falls on the first dark ring of the second image, the images are at the limit of resolution.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 282,
+        "name" : "ray model of light",
+        "description" : "A model that represents light as a ray that travels in a straight path, whose direction can be changed only by encountering a boundary.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 283,
+        "name" : "real image",
+        "description" : "An optical image that is formed by the converging of light rays.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 284,
+        "name" : "receiver",
+        "description" : "A device that converts oscillating potential differences in an antenna to sound, pictures, or data.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 285,
+        "name" : "reference frame",
+        "description" : "A coordinate system from which motion is viewed.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 286,
+        "name" : "reference level/point",
+        "description" : "The position where gravitational potential energy (or any specific physical property) is defined as zero.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 287,
+        "name" : "reflected wave",
+        "description" : "A returning wave that results from some of the energy of the incident wave’s pulse being reflected backward.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 288,
+        "name" : "refraction",
+        "description" : "The change in direction of waves at the boundary between two different mediums.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 289,
+        "name" : "resistance",
+        "description" : "The measure of how strongly an object or material impedes the flow of electric charge produced by a potential difference; equal to the potential difference divided by the current.",
+        "formula_desc" : "V = voltage\nI = current",
+        "formula_img" : 289,
+        "calc_id" : 289,
+        "video_ids" : []
+    },
+    {
+        "id" : 290,
+        "name" : "resistance force",
+        "description" : "A force whose direction is opposite to the velocity of the body, or of the sum of the other forces, and may refer to: Friction. Drag.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 291,
+        "name" : "resistor",
+        "description" : "A device with a specific resistance; may be made of long, thin wires, graphite, or semiconductors and often is used to control the current in circuits or parts of circuits.",
+        "formula_desc" : "V = voltage\nI = current",
+        "formula_img" : 289,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 292,
+        "name" : "resonance",
+        "description" : "A special form of periodic motion that occurs when small forces are applied at regular intervals to an oscillating or vibrating object and the amplitude of the vibration increases.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 293,
+        "name" : "resultant",
+        "description" : "A vector that represents the sum of two other vectors; it always points from the first vector’s tail to the last vector’s tip.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 294,
+        "name" : "rotational kinetic energy",
+        "description" : "Kinetic energy of a system due to its rotational motion, proportional to the system’s moment of inertia and the square of its angular velocity.",
+        "formula_desc" : "KErot = Rotational kinetic energy\nI = moment of inertia\nw = angular velocity",
+        "formula_img" : 294,
+        "calc_id" : 294,
+        "video_ids" : []
+    },
+    {
+        "id" : 295,
+        "name" : "scalar",
+        "description" : "A quantity, such as temperature or distance, that is just a number without any direction.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 296,
+        "name" : "scientific law",
+        "description" : "A statement about what happens in nature and seems to be true all the time.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 297,
+        "name" : "scientific methods",
+        "description" : "The patterns of investigation procedures.\nA method of procedure that has characterized natural science since the 17th century, consisting in systematic observation, measurement, and experiment, and the formulation, testing, and modification of hypotheses.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 298,
+        "name" : "scientific theory",
+        "description" : "An explanation of things or events based on knowledge gained from many observations and investigations.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 299,
+        "name" : "secondary color",
+        "description" : "Yellow, cyan, and magenta, each of which is produced by combining two primary colors.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 300,
+        "name" : "secondary pigment",
+        "description" : "Red, green, and blue, each of which absorbs two primary colors from white light and reflects one primary color; can be produced by mixing pairs of cyan, magenta, and yellow pigments.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 301,
+        "name" : "second law of thermodynamics",
+        "description" : "States that whenever there is an opportunity for energy dispersal, the energy always spreads out; states that natural processes go in a direction that maintains or increases the total entropy of the universe.\n(in other words):\nthe total entropy of an isolated system can never decrease over time, and is constant if and only if all processes are reversible.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 302,
+        "name" : "self-inductance",
+        "description" : "The property of a wire, either straight or in a coil, to create an induced EMF that opposes the change in the potential difference across the wire.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 303,
+        "name" : "semiconductor",
+        "description" : "Material that behaves as a conductor under certain conditions and as an insulator in others; can be used to make solid- state electronic components.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 304,
+        "name" : "series circuit",
+        "description" : "A type of electric circuit in which there is only one current path and all current travels through each device; the current is the same everywhere and is equal to the potential difference divided by the equivalent resistance.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 305,
+        "name" : "series connection",
+        "description" : "A type of connection in which there is only a single current path.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 306,
+        "name" : "short circuit",
+        "description" : "Occurs when a very low resistance circuit is formed, causing a very large current that could easily start a fire from overheated wires.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 307,
+        "name" : "significant figures",
+        "description" : "All the valid digits in a measurement, the number of which indicates the measurement’s precision.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 308,
+        "name" : "simple harmonic motion",
+        "description" : "A motion that occurs when the restoring force on an object is directly proportional to the object’s displacement from the equilibrium position.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 309,
+        "name" : "simple pendulum",
+        "description" : "A device that can demonstrate simple harmonic motion when its bob (a massive ball or weight), suspended by a string or light rod, is pulled to one side and released, causing it to swing back and forth.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 310,
+        "name" : "solenoid",
+        "description" : "A long coil of wire with many spiral loops that is attached to a circuit; fields from each loop add to the fields of the other loops, creating a greater total field strength.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 311,
+        "name" : "sound level",
+        "description" : "A logarithmic scale that measures sound intensities; depends on the ratio of the intensity of a particular sound wave to the intensity of the most faintly heard sound; unit of measurement is the decibel (dB).",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 312,
+        "name" : "sound wave",
+        "description" : "A pressure variation transmitted through matter as a longitudinal wave; it reflects and interferes and has frequency, wavelength, speed, and amplitude.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 313,
+        "name" : "specific heat",
+        "description" : "The amount of energy that must be added to a material to raise the temperature of a unit mass by one temperature unit; measured in J/kg·K.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 314,
+        "name" : "specular reflection",
+        "description" : "A reflection produced by a smooth surface in which parallel light rays are reflected in parallel.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 315,
+        "name" : "spherical aberration",
+        "description" : "The image defect of a spherical mirror or lens that does not allow parallel light rays far from the principal axis to converge at the focal point and produces an image that is fuzzy, not sharp.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 316,
+        "name" : "Standard Model",
+        "description" : "A model of matter in which all elementary particles can be grouped into three families—quarks, leptons, and force carriers.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 317,
+        "name" : "standing wave",
+        "description" : "A wave that appears to be standing still, produced by the interference of two traveling waves moving in opposite directions.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 318,
+        "name" : "static friction",
+        "description" : "The force exerted on one surface by a second surface when there is no motion between the two surfaces.",
+        "formula_desc" : "μs = coefficient of static friction\nN = perpendicular force",
+        "formula_img" : 318,
+        "calc_id" : 318,
+        "video_ids" : []
+    },
+    {
+        "id" : 319,
+        "name" : "step-down transformer",
+        "description" : "A type of transformer in which the voltage coming out of the transformer is smaller than the voltage put into the transformer.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 320,
+        "name" : "step-up transformer",
+        "description" : "A type of transformer in which the voltage coming out of the transformer is larger than the voltage put into the transformer.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 320,
+        "video_ids" : []
+    },
+    {
+        "id" : 321,
+        "name" : "stimulated emission",
+        "description" : "The process that occurs when an excited atom is struck by a photon having energy equal to the energy difference between the excited state and the ground state, the atom drops to the ground state and emits a photon with energy equal to the energy difference between the two states.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 322,
+        "name" : "streamlines",
+        "description" : "Lines representing the flow of fluids around objects.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 323,
+        "name" : "strong nuclear force",
+        "description" : "An attractive force between nucleons that binds the nucleus together; is of the same strength between all nucleon pairs.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 324,
+        "name" : "superconductor",
+        "description" : "A material with zero resistance that can conduct electricity without thermal energy transformations.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 325,
+        "name" : "surface wave",
+        "description" : "Disturbance in which the medium’s particles follow a circular path that is at times parallel to the direction of wave travel and at other times perpendicular to the direction of wave travel.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 326,
+        "name" : "system",
+        "description" : "Object or objects of interest that can interact with each other and the external world.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 327,
+        "name" : "tension",
+        "description" : "The specific name for the force exerted by a rope or a string.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 328,
+        "name" : "terminal velocity",
+        "description" : "The constant velocity of an object that is reached when the drag force equals the force of gravity.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 329,
+        "name" : "thermal conduction",
+        "description" : "The transfer of thermal energy when particles collide.",
+        "formula_desc" : "Q/t = Heat transfer rate to the object(in Watts)\nk = thermal conductivity of the object\nA = surface area in contact\n(T2-T1) = difference in temperatures\nd = thickness of the object",
+        "formula_img" : 329,
+        "calc_id" : 329,
+        "video_ids" : []
+    },
+    {
+        "id" : 330,
+        "name" : "thermal energy",
+        "description" : "The sum of the kinetic energies and potential energies of the particles in a system.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 331,
+        "name" : "thermal equilibrium",
+        "description" : "The state in which the rates of thermal energy transfer between two objects are equal and the objects are at the same temperature.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 332,
+        "name" : "thermal expansion",
+        "description" : "A property of all forms of matter that causes the matter to expand, becoming less dense, when heated.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 333,
+        "name" : "thin-film interference",
+        "description" : "A phenomenon in which light waves reflect from separate boundaries of a thin film and experience constructive and destructive interference.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 334,
+        "name" : "thin lens equation",
+        "description" : "States that the inverse of the focal length of a spherical lens equals the sum of the inverses of the image position and the object position.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 335,
+        "name" : "threshold frequency",
+        "description" : "The certain minimum value at or above which the frequency of incident radiation causes the ejection of electrons from a metal.",
+        "formula_desc" : "E = kinetic energy of electron ejected\nh = Planck's constant(6.626E-34)",
+        "formula_img" : 335,
+        "calc_id" : 335,
+        "video_ids" : []
+    },
+    {
+        "id" : 336,
+        "name" : "time interval",
+        "description" : "The difference between two times.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 337,
+        "name" : "torque",
+        "description" : "The combination of force and lever arm that can cause an object to rotate; the magnitude is equal to the force times the perpendicular lever arm.",
+        "formula_desc" : "F = force applied\nr = length of lever arm from axis point\nθ = angle between force vector and lever arm",
+        "formula_img" : 337,
+        "calc_id" : 337,
+        "video_ids" : []
+    },
+    {
+        "id" : 338,
+        "name" : "total internal reflection",
+        "description" : "An optical phenomenon that occurs when light strikes a boundary between two mediums at an angle of incidence that is greater than the critical angle and all light reflects back into the region of the higher index of refraction.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 339,
+        "name" : "trajectory",
+        "description" : "The path of a projectile through space.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 340,
+        "name" : "transformer",
+        "description" : "A device that can decrease or increase the voltages in AC circuits with relatively little energy loss.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 341,
+        "name" : "transistor",
+        "description" : "A simple device made of doped semiconducting material that can act as an amplifier, converting a weak signal to a much stronger one.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 342,
+        "name" : "translational kinetic energy",
+        "description" : "The energy of a system due to the system’s change in position.",
+        "formula_desc" : "m = mass\nv = velocity",
+        "formula_img" : 188,
+        "calc_id" : 188,
+        "video_ids" : []
+    },
+    {
+        "id" : 343,
+        "name" : "translucent",
+        "description" : "A property of a medium that allows that medium to transmit light and reflect a fraction of the light, preventing objects from being seen clearly through it.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 344,
+        "name" : "transmitter",
+        "description" : "a circuit that converts voice, music, pictures, or data to electronic signals, amplifies the signals, and then sends them to an antenna.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 345,
+        "name" : "transparent",
+        "description" : "A property of a medium that allows that medium to transmit light and reflect a fraction of the light, allowing objects to be seen clearly through it.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 346,
+        "name" : "transverse wave",
+        "description" : "A wave that vibrates perpendicular to the direction of the wave’s travel.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 347,
+        "name" : "trough",
+        "description" : "The low point of a transverse wave.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 348,
+        "name" : "uniform circular motion",
+        "description" : "The movement of an object at a constant speed around a circle with a fixed radius.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 349,
+        "name" : "vector",
+        "description" : "A quantity, such as position, that has both magnitude and direction.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 350,
+        "name" : "vector resolution",
+        "description" : "The process of breaking a vector into its components.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 351,
+        "name" : "velocity-time graph",
+        "description" : "A graph that has velocity plotted on the vertical axis and time plotted on the horizontal axis; its slope is the acceleration of the object whose motion is described by the graph.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 352,
+        "name" : "virtual image",
+        "description" : "The image formed of diverging light rays.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 353,
+        "name" : "volt",
+        "description" : "The unit of electric potential difference; equal to one joule per coulomb, 1 J/C.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 354,
+        "name" : "voltage divider",
+        "description" : "A series circuit that is used to produce a potential difference source of desired magnitude from a battery with a higher potential difference; often is used with sensors such as photoresistors.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 355,
+        "name" : "watt (W)",
+        "description" : "Unit of power; 1 Joule of energy transferred in 1 s.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 356,
+        "name" : "wave",
+        "description" : "A disturbance that carries energy through matter or space; transfers energy without transferring matter.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 357,
+        "name" : "wavefront",
+        "description" : "A line representing the crest of a wave in two dimensions that can show the wavelength, but not the amplitude, of the wave when drawn to scale.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 358,
+        "name" : "wavelength",
+        "description" : "The shortest distance between points on a wave where the wave pattern repeats itself, such as from crest to crest or from trough to trough.",
+        "formula_desc" : "f = frequence\nv = velocity",
+        "formula_img" : 358,
+        "calc_id" : 358,
+        "video_ids" : []
+    },
+    {
+        "id" : 359,
+        "name" : "wave pulse",
+        "description" : "A single disturbance or bump that travels through a medium.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 360,
+        "name" : "weak nuclear force",
+        "description" : "The interaction that acts in the nucleus during beta (β) decay; much weaker than the strong nuclear force.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 361,
+        "name" : "weight",
+        "description" : "The gravitational force experienced by an object.",
+        "formula_desc" : "g = acceleration of gravity\nm = object's mass",
+        "formula_img" : 361,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 362,
+        "name" : "weightlessness",
+        "description" : "An object’s apparent weight of zero that results when there are no contact forces supporting the object.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    },
+    {
+        "id" : 363,
+        "name" : "work",
+        "description" : "The transfer of energy that occurs when a force is applied through a distance; equal to the product of the system’s displacement and the force applied to the system in the direction of displacement.",
+        "formula_desc" : "F = force\nd = distance traveled\nU = potential energy\nKE = kinetic energy",
+        "formula_img" : 363,
+        "calc_id" : 363,
+        "video_ids" : []
+    },
+    {
+        "id" : 364,
+        "name" : "work-energy theorem",
+        "description" : "States that when work is done on a system, a change in energy occurs.",
+        "formula_desc" : "KE = kinetic energy\nU = potential energy",
+        "formula_img" : 364,
+        "calc_id" : 363,
+        "video_ids" : []
+    },
+    {
+        "id" : 365,
+        "name" : "work function",
+        "description" : "The energy required to free the most weakly bound electron from a metal; measured by the threshold frequency in the photoelectric effect.",
+        "formula_desc" : "",
+        "formula_img" : 0,
+        "calc_id" : 0,
+        "video_ids" : []
+    }
+]

@@ -9,14 +9,14 @@ import SwiftUI
 
 struct ListItem: View {
     
-    var item: String;
+    var item: ItemObj;
     
     var body: some View {
         
         NavigationLink(destination: DetailView(item: item)) {
             
             HStack {
-                Text("\(item)")
+                Text("\(item.name.capitalized)")
                     
                     
                 Spacer()
@@ -24,7 +24,7 @@ struct ListItem: View {
             
         }
         .foregroundColor(.white)
-        .background(.secondary)
+        .background(.secondary.opacity(0.8))
         .cornerRadius(20)
         .padding(.horizontal)
         

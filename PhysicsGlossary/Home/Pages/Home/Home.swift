@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Home: View {
     
-    var data:[String];
+    var data:[ItemObj];
     
     var body: some View {
         

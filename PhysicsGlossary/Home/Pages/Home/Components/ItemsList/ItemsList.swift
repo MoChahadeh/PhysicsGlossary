@@ -9,13 +9,13 @@ import SwiftUI
 
 struct ItemsList: View {
     
-    var items: [String];
+    var items: [ItemObj];
     
     var body: some View {
             
         VStack(spacing: 20){
             
-            ForEach(items, id: \.self) {item in
+            ForEach(items, id: \.self.id) {item in
                 ListItem(item: item)
             }
             
