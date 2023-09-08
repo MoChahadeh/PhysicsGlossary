@@ -8,15 +8,18 @@
 import SwiftUI
 import CoreData
 
+let data:[ItemObj] = ItemObj.items;
+
 struct ContentView: View {
     @Environment(\.managedObjectContext) private var viewContext
     
-    let data:[ItemObj] = ItemObj.items;
+    
+    let dailyItems:[ItemObj] = Array(data.shuffled()[0..<3])
     
     var body: some View {
         TabView {
             
-            HomeView(data: data).tabItem{
+            HomeView(data: data, dailyItems: dailyItems).tabItem{
                 Image(systemName: "house")
                 Text("Home")
             }

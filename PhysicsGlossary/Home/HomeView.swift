@@ -11,11 +11,12 @@ import SwiftUI
 struct HomeView: View {
     
     var data:[ItemObj];
+    var dailyItems:[ItemObj];
     
     var body: some View {
         
         NavigationView {
-            Home(data: data)
+            Home(data: data, dailyItems: dailyItems)
                 .navigationTitle("Home");
         }
         
