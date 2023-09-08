@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2344E3762AAB363500FA747D /* UrlImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2344E3752AAB363500FA747D /* UrlImage.swift */; };
 		236137422AA90DD300E1FCB0 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236137412AA90DD300E1FCB0 /* HomeView.swift */; };
 		236137452AA90EE400E1FCB0 /* CalculateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236137442AA90EE400E1FCB0 /* CalculateView.swift */; };
 		236137482AA90F4000E1FCB0 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236137472AA90F4000E1FCB0 /* SettingsView.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2344E3752AAB363500FA747D /* UrlImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrlImage.swift; sourceTree = "<group>"; };
 		236137412AA90DD300E1FCB0 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		236137442AA90EE400E1FCB0 /* CalculateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateView.swift; sourceTree = "<group>"; };
 		236137472AA90F4000E1FCB0 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 		23EE97A32AA9098000540B6E = {
 			isa = PBXGroup;
 			children = (
+				2344E3752AAB363500FA747D /* UrlImage.swift */,
 				23849AD72AA9D98D006F51D0 /* ItemData.swift */,
 				23849AD52AA9D1DF006F51D0 /* data.json */,
 				23EE97AE2AA9098000540B6E /* PhysicsGlossary */,
@@ -261,6 +264,7 @@
 				236137422AA90DD300E1FCB0 /* HomeView.swift in Sources */,
 				236137572AA917A300E1FCB0 /* DailySlider.swift in Sources */,
 				2361375D2AA9284000E1FCB0 /* ListItem.swift in Sources */,
+				2344E3762AAB363500FA747D /* UrlImage.swift in Sources */,
 				2361374C2AA9104300E1FCB0 /* Home.swift in Sources */,
 				23EE97BC2AA9098200540B6E /* PhysicsGlossary.xcdatamodeld in Sources */,
 			);

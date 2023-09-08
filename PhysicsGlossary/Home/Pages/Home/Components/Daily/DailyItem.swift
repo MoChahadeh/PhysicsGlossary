@@ -14,15 +14,20 @@ struct DailyItem: View {
     var body: some View {
         NavigationLink(destination: DetailView(item: item)) {
             
-            VStack(alignment: .leading, spacing: 8){
+            VStack(alignment: .leading){
                
-                Text("\(item.name.capitalized)")
-                   .font(.title)
-                   .fontWeight(.bold)
-                   .multilineTextAlignment(.leading)
-                
-                Text("This is the description of the item that is being shown in the dailyItem Box, you can click on this box to view everything about this item.")
-                    .multilineTextAlignment(.leading)
+                HStack {
+                    VStack(alignment:.leading, spacing: 8) {
+                        Text("\(item.name.capitalized)")
+                           .font(.title)
+                           .fontWeight(.bold)
+                           .multilineTextAlignment(.leading)
+                        
+                        Text("\(item.description)")
+                            .multilineTextAlignment(.leading)
+                    }
+                    Spacer();
+                }
                 
                 Spacer()
                
