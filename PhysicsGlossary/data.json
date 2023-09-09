@@ -301,7 +301,7 @@
         "id" : 34,
         "name" : "capacitance",
         "description" : "The ratio of the magnitude of charge on one capacitor plate to the electric potential difference between the plates; the slope of the line of a net charge versus potential difference graph.",
-        "formula_desc" : "(Depends on the kind of the capacitor)",
+        "formula_desc" : "C = Capacitance\nQ = Total Charge of Capacitor\nV = Voltage across the Capacitor",
         "formula_img" : 34,
         "calc_id" : 0,
         "video_ids" : []
@@ -355,7 +355,7 @@
         "id" : 40,
         "name" : "centripetal force",
         "description" : "The net force exerted toward the center of the circle that causes an object to have a centripetal acceleration.",
-        "formula_desc" : "a = centripetal acceleration\nv = linear velocity\nr = circle radius\nw = angular velocity",
+        "formula_desc" : "ac = centripetal acceleration\nv = linear velocity\nr = circle radius\nw = angular velocity",
         "formula_img" : 40,
         "calc_id" : 40,
         "video_ids" : []

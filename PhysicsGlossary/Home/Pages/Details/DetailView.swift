@@ -12,6 +12,7 @@ struct DetailView: View {
     var  item: ItemObj;
     
     @State private var showAlert = false;
+    @State private var sheetIsShown = false;
     
     var body: some View {
         
@@ -59,7 +60,7 @@ struct DetailView: View {
                         Spacer()
                     }
                     
-                    Image("2").resizable().aspectRatio(contentMode: .fit).frame(maxWidth:.infinity).padding()
+                    Image("\(item.formula_img)").resizable().aspectRatio(contentMode: .fit).frame(maxWidth:.infinity).padding()
                 }.frame(maxWidth:.infinity).padding().multilineTextAlignment(.leading)
                 
             }
@@ -119,6 +120,14 @@ struct DetailView: View {
         .frame(idealWidth: .infinity)
         .navigationTitle(item.name.capitalized)
         .navigationBarTitleDisplayMode(.inline)
+        .navigationBarItems(trailing: Button {
+            sheetIsShown = true;
+        } label: {
+            Image("wiki").resizable().aspectRatio(contentMode: .fit).frame(height:20)
+        })
+        .sheet(isPresented: $sheetIsShown) {
+            WikiSheet(itemName: item.name.lowercased())
+        }
         
             
     }

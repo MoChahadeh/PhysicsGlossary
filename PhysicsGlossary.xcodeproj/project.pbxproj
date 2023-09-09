@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2304040C2AABA65B00013A77 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2304040B2AABA65B00013A77 /* SearchBar.swift */; };
+		2304040E2AABB4C500013A77 /* WikiSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2304040D2AABB4C500013A77 /* WikiSheet.swift */; };
 		2344E3762AAB363500FA747D /* UrlImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2344E3752AAB363500FA747D /* UrlImage.swift */; };
 		236137422AA90DD300E1FCB0 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236137412AA90DD300E1FCB0 /* HomeView.swift */; };
 		236137452AA90EE400E1FCB0 /* CalculateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236137442AA90EE400E1FCB0 /* CalculateView.swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		2304040B2AABA65B00013A77 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		2304040D2AABB4C500013A77 /* WikiSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WikiSheet.swift; sourceTree = "<group>"; };
 		2344E3752AAB363500FA747D /* UrlImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrlImage.swift; sourceTree = "<group>"; };
 		236137412AA90DD300E1FCB0 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		236137442AA90EE400E1FCB0 /* CalculateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateView.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 			isa = PBXGroup;
 			children = (
 				236137542AA911D800E1FCB0 /* DetailView.swift */,
+				2304040D2AABB4C500013A77 /* WikiSheet.swift */,
 			);
 			path = Details;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				236137482AA90F4000E1FCB0 /* SettingsView.swift in Sources */,
 				23EE97B92AA9098200540B6E /* Persistence.swift in Sources */,
 				236137452AA90EE400E1FCB0 /* CalculateView.swift in Sources */,
+				2304040E2AABB4C500013A77 /* WikiSheet.swift in Sources */,
 				2304040C2AABA65B00013A77 /* SearchBar.swift in Sources */,
 				236137552AA911D800E1FCB0 /* DetailView.swift in Sources */,
 				23EE97B22AA9098000540B6E /* ContentView.swift in Sources */,
