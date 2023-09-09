@@ -47,9 +47,22 @@ struct DetailView: View {
                 VStack(alignment: .leading, spacing: 5){
                     HStack {
                         VStack(alignment: .leading, spacing: 5) {
-                            Text("Formula:")
-                                .font(.largeTitle)
-                                .fontWeight(.bold)
+                            HStack{
+                                Text("Formula:")
+                                    .font(.largeTitle)
+                                    .fontWeight(.bold)
+                                Spacer()
+                                
+                                Button {
+                                    shareImage(formula_img: item.formula_img)
+                                } label: {
+                                    Image(systemName: "square.and.arrow.up")
+                                        .resizable()
+                                        .aspectRatio(contentMode: .fit)
+                                        .frame(height: 28).padding(.horizontal, 5)
+                                        .foregroundColor(.primary)
+                                }
+                            }
                                 
                             Text("\(item.formula_desc)")
                                 .font(.body)
@@ -142,11 +155,22 @@ struct DetailView: View {
         
     
     }
+    
+    private func shareImage(formula_img: Int) {
+        if let image = UIImage(named: "\(formula_img)") { // Replace with your image's name
+            let activityViewController = UIActivityViewController(activityItems: [image], applicationActivities: nil)
+            
+            if let topController = UIApplication.shared.windows.first?.rootViewController {
+                activityViewController.popoverPresentationController?.sourceView = topController.view
+                topController.present(activityViewController, animated: true, completion: nil)
+            }
+        }
+    }
 }
 
 struct DetailsView_Previews: PreviewProvider {
     
-    static var previewItem:ItemObj = ItemObj.items[154];
+    static var previewItem:ItemObj = ItemObj.items[1];
     
     static var previews: some View {
         DetailView(item: previewItem)
