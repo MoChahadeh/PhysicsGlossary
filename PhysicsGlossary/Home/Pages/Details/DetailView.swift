@@ -136,7 +136,7 @@ struct DetailView: View {
         .navigationBarItems(trailing: Button {
             sheetIsShown = true;
         } label: {
-            Image("wiki").resizable().aspectRatio(contentMode: .fit).frame(height:20)
+            Image("wiki").resizable().aspectRatio(contentMode: .fit).frame(height:26)
         })
         .sheet(isPresented: $sheetIsShown) {
             WikiSheet(itemName: item.name.lowercased())
